@@ -17,7 +17,7 @@ export default function Header() {
         <li>
           <a
             className="Link"
-            href="http://linkedin.com/AmeerSunkesula"
+            href="https://www.linkedin.com/in/ameersunkesula/"
             target="_blank"
             rel="noopener noreferrer">
             LinkedIn
